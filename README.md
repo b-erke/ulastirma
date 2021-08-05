@@ -1,2 +1,2 @@
 # Ulastirma
-transport problemlerini çözebilecek türkçe bir modül gelitşirmeye çalışıyorum.
+Transport/tasimacilik problemlerini çözebilecek türkçe bir modül geliştirmeye çalışıyorum.
